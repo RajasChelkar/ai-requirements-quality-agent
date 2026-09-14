@@ -1,0 +1,11 @@
+Requirements traceability establishes relationships between related
+engineering artifacts.
+
+A system requirement should have an appropriate relationship to its
+originating stakeholder or higher-level requirement where applicable.
+
+Requirements should also be linked to relevant verification methods
+or verification artifacts.
+
+Missing parent relationships or missing verification relationships
+can indicate incomplete traceability.

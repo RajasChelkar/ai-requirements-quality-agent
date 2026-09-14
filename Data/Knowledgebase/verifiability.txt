@@ -1,0 +1,10 @@
+A requirement should be verifiable.
+
+A requirement is easier to verify when it contains objective and
+measurable acceptance criteria.
+
+Performance requirements should specify measurable values such as
+response time, accuracy, capacity, or frequency where applicable.
+
+A requirement should allow a verification engineer to determine
+whether the requirement has been satisfied.

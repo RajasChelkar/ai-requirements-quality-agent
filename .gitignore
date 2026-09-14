@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+Data/chroma_db/
+Data/analysis_cache.json

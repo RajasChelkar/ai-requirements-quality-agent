@@ -1,0 +1,9 @@
+Requirement ambiguity occurs when a requirement can be interpreted in
+more than one reasonable way.
+
+Requirements should avoid vague or subjective terms such as:
+quickly, efficiently, user-friendly, reliable, adequate, easy, and
+as soon as possible.
+
+Ambiguous terms should be replaced with measurable or clearly defined
+criteria whenever possible.

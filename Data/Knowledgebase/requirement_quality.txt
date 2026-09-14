@@ -1,0 +1,10 @@
+A high-quality requirement should be clear, unambiguous, complete,
+consistent, feasible, necessary, and verifiable.
+
+Requirements should describe one clear obligation or behavior.
+
+The use of weak or subjective language should be minimized.
+
+Requirements should contain enough information for engineers to
+understand what must be achieved and for verification teams to
+determine whether it has been achieved.

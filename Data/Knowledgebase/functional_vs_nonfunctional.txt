@@ -1,0 +1,11 @@
+Functional requirements describe behavior or functions that the system
+must perform.
+
+Examples include monitoring a parameter, transmitting data, opening
+a valve, generating an alert, or processing an input.
+
+Non-functional requirements describe qualities or constraints on how
+the system performs a function.
+
+Examples include performance, reliability, availability, usability,
+security, or maintainability.
