@@ -119,3 +119,19 @@ The AI does not automatically replace engineering requirements.
 Suggested improvements are presented to the engineer for review. The engineer remains responsible for validating the technical meaning, constraints, and acceptance criteria before accepting any proposed change.
 
 This reflects the intended role of the system: AI-assisted requirements engineering rather than fully automated requirements authoring.
+
+## Application Preview
+
+The application is implemented as an interactive Streamlit dashboard that allows engineers to upload requirements and review AI-assisted quality and traceability analysis.
+
+### Dashboard Overview
+
+![Dashboard Overview](docs/Dashboard%20Top.png)
+
+### Individual Requirement Analysis
+
+![Individual Requirement Analysis](docs/Individual%20analysis.png)
+
+### Requirements Quality Overview
+
+![Requirements Quality Overview](docs/Quality%20overview.png)
